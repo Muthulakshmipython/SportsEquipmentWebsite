@@ -85,7 +85,7 @@ document.querySelectorAll(".add-to-cart-btn").forEach(button => {
 
 // HOME PAGE LOGIN//
 function goToHome() {
-  window.location.href = 'index.html'; 
+  window.location.href = 'home.html'; 
   return false; 
 }
 
